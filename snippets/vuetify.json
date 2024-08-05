@@ -1,0 +1,9 @@
+{
+  "v-btn component": {
+    "prefix": "vBtn",
+    "body": [
+      "<v-btn color=\"${1|success,error,warning,info|}\">${2:text}</v-btn>"
+    ],
+    "description": "v-btn component - Vuetify"
+  }
+}
